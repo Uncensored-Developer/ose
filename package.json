@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Ose right here on your command-line",
   "main": "src/ose.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "github.com/uncensored/ose"
@@ -16,5 +13,6 @@
     "commander": "^6.2.0",
     "inquirer": "^7.3.3",
     "opn": "^6.0.0"
-  }
+  },
+  "bin": "cli.js"
 }
