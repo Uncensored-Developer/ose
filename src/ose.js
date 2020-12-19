@@ -2,7 +2,7 @@
 module.exports = {
     bio: "Hi, I'm Ose. I'm a backend/android software engineer based in Lagos, Nigeria. " +
     "I currently work at Blueloop Inc (blueloop.app). " +
-    "I love building challenging APIs and reading about Android technologies.",
+    "I love building challenging APIs, reading about Android technologies and watching animes (I have watched quite alot).",
     prompt: 'Want to know more about me?:',
     links: [
         {
