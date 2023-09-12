@@ -10,16 +10,12 @@ module.exports = {
             value: 'https://github.com/Uncensored-Developer',
         },
         {
-            name: 'LinkedIn',
-            value: 'https://www.linkedin.com/in/osezele-orukpe-1a37a9167',
-        },
-        {
             name: 'Twitter',
             value: 'https://twitter.com/__warchief',
         },
         {
             name: 'My Resume',
-            value: 'https://www.canva.com/design/DADxK8yD0v0/wl4GbAdUj4zD2my6111axg/view?utm_content=DADxK8yD0v0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink',
+            value: 'https://drive.google.com/file/d/1MKLHF2aHTe226HQ5PsKA1txBgSrEnUIu/view?usp=sharing',
         },
     ],
     email: 'osezele.o@gmail.com'
